@@ -1,8 +1,12 @@
-## Project_5_Automated_Software_Testing_with_Playwright
+# Project_5_Automated_Software_Testing_with_Playwright
+
 
 <br>
 
-### Basics:
+## Basics:
+
+
+
 ### Getting Started
 
 Install dependencies and the Playwright browsers:
@@ -78,5 +82,13 @@ npx playwright show-report
 
 <br>
 
-### End to End:
+## End to End:
+
+<br>
+
+## Visual Regression:
+
+<br>
+
+
 
