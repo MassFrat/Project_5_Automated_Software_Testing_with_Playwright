@@ -94,3 +94,7 @@ npx playwright show-report
 
 <br>
 
+## Automation with CI/CD
+
+<br> 
+
