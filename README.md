@@ -90,5 +90,7 @@ npx playwright show-report
 
 <br>
 
+## REST API:
 
+<br>
 
